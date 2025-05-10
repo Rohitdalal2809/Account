@@ -77,7 +77,7 @@ Ideal for small and medium Indian retailers, wholesalers, and distributors who n
 
 | Invoice Date | Invoice No. | Party Name        | GST No.           | Product         | HSN Code | Qty | Unit Price | GST Slab | SGST | CGST | IGST | Total Tax | Net Amount |
 |--------------|-------------|-------------------|-------------------|-----------------|----------|-----|------------|----------|------|------|------|-----------|------------|
-| 2025-05-10   | 201         | MANOJ ELECTRONICS | 06FLTPR2938K1ZPA  | MICRO OWEN      | 85165000     | 5   | 6000       | 0.28     | 4200 | 4200 |      | 8400      | 38400      |
+| 2025-05-10   | 201         | MANOJ ELECTRONICS | 06FLTPR2938K1ZPA  | MICRO OWEN      | 85165     | 5   | 6000       | 0.28     | 4200 | 4200 |      | 8400      | 38400      |
 
 ---
 
